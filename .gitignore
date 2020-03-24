@@ -11,7 +11,7 @@ __pycache__/
 migrations/*
 
 !migrations/__init__.py
-
+node_modules/
 *.pyc
 
 env/
