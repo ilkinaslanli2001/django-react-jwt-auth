@@ -20,5 +20,6 @@
   
   ### 4) Run both ReactJs and Django servers.
  
-
+  ``` python manage.py runserver ```
+  ``` npm start ```
 
