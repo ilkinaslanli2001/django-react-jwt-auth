@@ -5,7 +5,20 @@
 
 ## How to install
 
-### First of all install all requirements for Django (requirements.txt) ```pip3 install -r requirements.txt ```
-### and for ReactJs (package.json) ``` npm install package.json ``` . Then you should apply all migrations for Django ``` python manage.py makemigrations``` and ```python manage.py migrate ``` and finally run both ReactJs and Django servers.
+### 1) install all requirements for Django (requirements.txt)
 
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+  ```pip3 install -r requirements.txt ```
+  
+### 2) install all requirements (package.json) 
+
+  ``` npm install package.json ``` 
+  
+ ### 3) Apply all migrations for Django 
+ 
+  ``` python manage.py makemigrations``` 
+  ```python manage.py migrate ``` 
+  
+  ### 4) Run both ReactJs and Django servers.
+ 
+
+
