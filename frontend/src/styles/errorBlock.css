@@ -1,0 +1,10 @@
+.errorBlock
+{
+   
+    height: 30px;
+    color:red;
+    font-size: 18px;
+    overflow-y: scroll;
+    text-align: center;
+    
+}

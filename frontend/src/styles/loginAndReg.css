@@ -1,0 +1,20 @@
+*
+{
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+.username_input, .password_input, .email_input
+{
+    width: 240px;
+    font-size: 18px;
+    padding: 5px;
+    margin: 11px;
+}
+.loginButton, .regButton
+{
+    width: 255px;
+    padding: 5px;
+
+}

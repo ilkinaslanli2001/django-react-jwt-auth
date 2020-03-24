@@ -1,0 +1,19 @@
+*
+{
+    margin:0 auto;
+    padding: 0;
+}
+
+.logoutButton
+{
+    width: 200px;
+    padding: 5px;
+}
+.email, .username
+{
+    font-size: 18px;
+}
+.loadingBlock
+{
+    text-align: center;
+}
