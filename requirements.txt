@@ -2,4 +2,3 @@ django
 djangorestframework-simplejwt
 djangorestframework
 django-cors-headers
-djoser
