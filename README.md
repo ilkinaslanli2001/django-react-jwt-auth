@@ -1,6 +1,6 @@
 # django-react-jwt-auth
 
-## In this project I used Django as my backend and ReactJs as my frontend for creating a simple Authorization process based on JWT tokens. Also I created a User model from scratch.You modify and use this project as you want.
+In this project I used Django as my backend and ReactJs as my frontend for creating a simple Authorization process based on JWT tokens. Also I created a User model from scratch.You modify and use this project as you want.
 
 
 ## How to install
