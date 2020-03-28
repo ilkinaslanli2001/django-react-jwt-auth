@@ -11,7 +11,7 @@ In this project I used Django as my backend and ReactJs as my frontend for creat
   
  2) install all requirements (package.json) 
 
-  ``` npm install package.json ``` 
+  ``` npm install ``` 
   
  3) Apply all migrations for Django 
  
